@@ -212,8 +212,13 @@ body {
   }
 }
 
-@media (max-width: 405px) {
+@media (max-width: 412px) {
   .hero {
+
+    .hero-title {
+      font-size: calc(57px + 1vw);
+    }
+
     .hero-info {
       .info-text-break {
         display: inline;
