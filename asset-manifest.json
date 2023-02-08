@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/abwgaith/static/css/main.bbe98169.chunk.css",
-    "main.js": "/abwgaith/static/js/main.46d59915.chunk.js",
-    "main.js.map": "/abwgaith/static/js/main.46d59915.chunk.js.map",
+    "main.js": "/abwgaith/static/js/main.b38f114f.chunk.js",
+    "main.js.map": "/abwgaith/static/js/main.b38f114f.chunk.js.map",
     "runtime-main.js": "/abwgaith/static/js/runtime-main.dfbc3cd3.js",
     "runtime-main.js.map": "/abwgaith/static/js/runtime-main.dfbc3cd3.js.map",
     "static/js/2.0afee437.chunk.js": "/abwgaith/static/js/2.0afee437.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.dfbc3cd3.js",
     "static/js/2.0afee437.chunk.js",
     "static/css/main.bbe98169.chunk.css",
-    "static/js/main.46d59915.chunk.js"
+    "static/js/main.b38f114f.chunk.js"
   ]
 }
