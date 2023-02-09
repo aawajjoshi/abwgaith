@@ -14,7 +14,7 @@ const Footer = () => {
                         <img src='https://res.cloudinary.com/dw8damfxa/image/upload/v1611387761/ABW/LOGOS/phone_sgplhl.svg' alt='phone' className='footer-info-icons' />
                     </div>
                     <div>
-                        <a href="tel:(240)-833-8387">(240)-647-9453</a>
+                        <a href="tel:(240)-833-8387">(240)-912-7171</a>
                     </div>
                 </div>
 
@@ -23,7 +23,7 @@ const Footer = () => {
                         <img src='https://res.cloudinary.com/dw8damfxa/image/upload/v1611387761/ABW/LOGOS/map-pin_brzxls.svg' alt='location' className='footer-info-icons' />
                     </div>
                     <div>
-                        <a href='http://maps.google.com/?q=11242 Georgia Ave, Silver Spring, Maryland, 20902' rel='noreferrer' target='_blank'>11242 Georgia Ave<span style={{ display: 'block' }}>Silver Spring, MD 20902</span></a>
+                        <a href='https://goo.gl/maps/GA2TkzR7TNaBtRr37' rel='noreferrer' target='_blank'>18208 Contour Road<span style={{ display: 'block' }}>Gaithersburg, MD 20877</span></a>
                     </div>
                 </div>
 
@@ -49,7 +49,7 @@ const Footer = () => {
                 </div>                
 
                 <div className='footer-info-box'>
-                    <p>© America's Best Wings ● 2021</p>
+                    <p>© America's Best Wings ● 2023</p>
                 </div>
 
             </div>
