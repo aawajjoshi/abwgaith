@@ -47,9 +47,9 @@ const Menu = () => {
 
         <a href='https://www.clover.com/online-ordering/americas-best-wings-gburg-montgomery-village' rel='noreferrer' target='_blank'><button className='feature-button feature-order-btn'>ORDER ONLINE & PICKUP</button></a>
 
-        {/* <div id="order" className='feature-link-icon'>
+        <div id="order" className='feature-link-icon'>
           <div className="feature-link-icon-box">
-            <a className="" href="https://www.grubhub.com/restaurant/americas-best-wings-11242-georgia-ave-silver-spring/2522990?classicAffiliateId=%2Fr%2Fw%2F2522990%2F&utm_source=https://restaurant.grubhub.com&utm_medium=OOL&utm_campaign=order%20online&utm_content=2522990" rel='noreferrer' target='_blank'>
+            <a className="" href="https://www.grubhub.com/restaurant/americas-best-wings-18208-contour-rd-gaithersburg/5600984" rel='noreferrer' target='_blank'>
               <img
                 src='https://res.cloudinary.com/dw8damfxa/image/upload/v1611387760/ABW/LOGOS/Grubhub_ucvxem.svg'
                 alt="grubhub-logo"
@@ -58,7 +58,7 @@ const Menu = () => {
             </a>
           </div>
           <div className="feature-link-icon-box">
-            <a className="" href="https://order.ubereats.com/washington-dc/food-delivery/Americas%20Best%20Wings/FyYRRlNQSvep04tzcSpABg/?utm_source=web-restaurant-manager" rel='noreferrer' target='_blank'>
+            <a className="" href="https://www.ubereats.com/store/americas-best-wings-gaithersburg/svfrM4qZTQmvZejHa_RbNA?diningMode=DELIVERY" rel='noreferrer' target='_blank'>
               <img
                 src='https://res.cloudinary.com/dw8damfxa/image/upload/v1611387761/ABW/LOGOS/Uber-Eats_kryvb5.svg'
                 alt="uberEats-logo"
@@ -67,7 +67,7 @@ const Menu = () => {
             </a>
           </div>
           <div className="feature-link-icon-box">
-            <a className="" href="https://www.doordash.com/business/691122/?utm_source=partner-link&utm_medium=website&utm_campaign=691122&utm_content=red-l" rel='noreferrer' target='_blank'>
+            <a className="" href="https://www.doordash.com/store/americas-best-wings-gaithersburg-24720723/19654372/?preview=1" rel='noreferrer' target='_blank'>
               <img
                 src='https://res.cloudinary.com/dw8damfxa/image/upload/v1611387759/ABW/LOGOS/Doordash_yfdell.svg'
                 alt="doordash-logo"
@@ -76,7 +76,7 @@ const Menu = () => {
             </a>
           </div>
           <div className="feature-link-icon-box">
-            <a className="" href="https://www.ezcater.com/catering/pvt/americas-best-wings-4" rel='noreferrer' target='_blank'>
+            <a className="" href="https://www.ezcater.com/catering/pvt/americas-best-wings-gaithersburg" rel='noreferrer' target='_blank'>
               <img
                 src='https://res.cloudinary.com/dw8damfxa/image/upload/v1667634151/ABW/LOGOS/ezCater_Logo_upvoq1.jpg'
                 alt="ezcater-logo"
@@ -84,7 +84,7 @@ const Menu = () => {
               />
             </a>
           </div>
-        </div> */}
+        </div>
 
       </div>
     </section>

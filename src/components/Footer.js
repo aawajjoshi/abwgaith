@@ -14,7 +14,7 @@ const Footer = () => {
                         <img src='https://res.cloudinary.com/dw8damfxa/image/upload/v1611387761/ABW/LOGOS/phone_sgplhl.svg' alt='phone' className='footer-info-icons' />
                     </div>
                     <div>
-                        <a href="tel:(240)-912-7171">(240)-912-7171</a>
+                        <a href="tel:(240)-833-8387">(240)-833-8387</a>
                     </div>
                 </div>
 
