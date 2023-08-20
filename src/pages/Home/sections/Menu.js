@@ -45,7 +45,7 @@ const Menu = () => {
           ORDER NOW
         </h3>
 
-        <a href='https://www.clover.com/online-ordering/americas-best-wings-gburg-montgomery-village' rel='noreferrer' target='_blank'><button className='feature-button feature-order-btn'>ORDER ONLINE & PICKUP</button></a>
+        <a href='https://online.skytab.com/aab61c00eb0e1cbf86066f4523e4bd6b' rel='noreferrer' target='_blank'><button className='feature-button feature-order-btn'>ORDER ONLINE & PICKUP</button></a>
 
         <div id="order" className='feature-link-icon'>
           <div className="feature-link-icon-box">
