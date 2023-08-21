@@ -16,7 +16,7 @@ export default function Hero() {
         <section className="hero">
             <h1 className="hero-title">AMERICA'S BEST<span style={{ display: "block", color: '#F5E900' }}>WINGS GAITHERSBURG</span></h1>
             <p className='hero-info'>Welcome to America's Best Wings. Come <span className="info-text-break">and try our best Wings, varieties of Seafood </span>and Much more.</p>
-            <button onClick={() => window.open("https://www.clover.com/online-ordering/americas-best-wings-gburg-montgomery-village")} className='hero-btn'>ORDER NOW</button>
+            <button onClick={() => window.open("https://online.skytab.com/aab61c00eb0e1cbf86066f4523e4bd6b")} className='hero-btn'>ORDER NOW</button>
         </section>
     )
 }
